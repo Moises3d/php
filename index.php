@@ -1,4 +1,5 @@
 <?php
 
-echo"Olá mundo Aula 12 conflitos de versões";
+echo"Olá mundo, alterando para ter um erro proposital";
+echo"Ola novo erro"
 ?>
